@@ -1,6 +1,4 @@
-# FaceRecognition
-
-# Introduction
+# FaceLocked IOS App 
 
 This demo is based on My human dataset, which was converted to <b>IOS CoreML model</b> using <b>Turicreate python package.</b>
 
