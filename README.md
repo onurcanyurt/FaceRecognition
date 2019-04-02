@@ -2,10 +2,10 @@
 
 # Introduction
 
-This demo is based on My human dataset, which was converted to <b>CoreML model</b> using <b>Turicreate python package.</b>
+This demo is based on My human dataset, which was converted to <b>IOS CoreML model</b> using <b>Turicreate python package.</b>
 
 
-# Turi Create
+# Turi Create Model
 To learn more about TuriCreate, watch the WWDC 2018 talk titled “A Guide to Turi Create”: https://developer.apple.com/videos/play/wwdc2018/712/ </br></br></br>
 
 # Final Step: Example predictions on Test set
