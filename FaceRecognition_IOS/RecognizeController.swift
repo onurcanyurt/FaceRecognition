@@ -8,7 +8,7 @@ import AVKit
 import Vision
 
 
-class ViewController: UIViewController, AVCaptureVideoDataOutputSampleBufferDelegate {
+class RecognizeController: UIViewController, AVCaptureVideoDataOutputSampleBufferDelegate {
 
     @IBOutlet weak var label: UILabel!
     override func viewDidLoad() {
