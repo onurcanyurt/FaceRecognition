@@ -16,7 +16,7 @@ To learn more about TuriCreate, watch the WWDC 2018 talk titled “A Guide to Tu
 
 
 
-<img width="300" alt="portfolio_view" src="https://1.bp.blogspot.com/-_hrQ5sHq1Lo/X4nNDeHKK5I/AAAAAAAABFk/SN6homJNT0QjAvt8s13X-2zlQ_j2eefBACLcBGAsYHQ/s1343/face-recog.jpg"> </br></br>
+<img width="300" alt="portfolio_view" src="https://1.bp.blogspot.com/-pHTCsctZFiY/X4nOFv9viII/AAAAAAAABFw/-hA-cHaeMr0Vl-GdbFinhqOKCFF54rmHQCLcBGAsYHQ/s1248/face-recog.jpg"> </br></br>
 
 
 # Requirements
