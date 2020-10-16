@@ -13,7 +13,6 @@ To learn more about TuriCreate, watch the WWDC 2018 talk titled “A Guide to Tu
 
 
 # Final Step: Example predictions on Test set
-<img width="300" alt="portfolio_view" src="https://1.bp.blogspot.com/-34puBq64xu4/XGA9H_XSJoI/AAAAAAAAA2c/zr0bxFfsLioGMwDHHmgYyMS60VpvAU56ACLcBGAs/s1600/ataturk%2Bcopy.jpg">
 
 
 
